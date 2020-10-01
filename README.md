@@ -12,28 +12,25 @@ In this project, our final Python script will need to be able to deliver the fol
 
 ## Resources
 - Data Source: election_results.csv
-- software: Python 3.6.1, Visual Studio Code, 1.38.1
+- software: Python 3.7 (64-bit), Visual Studio Code, 1.38.1
   
 ## Summary
 
 The analysis of the election shows that:
-- There were "x" votes in the election.
-- The candidates
-  - Candidate 1
-  -  Candidate 2
-  -  Candidate 3
+- There were 369,711 votes in the election.
+- The candidates were:
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 
 The candidates results were:
-  - Candidate 1 received "x%" of the vote and "y" number of votes.
-  - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  - Raymon Anthony received 3.1% of the vote and 11,606 number of votes.
 
-The winner of the election was:
-  - Candidate (1,2,or 3), who received "x%" of the vote and "y" number of votes.
+The winner of the election, based on popular vote, was:
+  - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-## Challenge Overview
-
-## Challenge Summary
 
 
 
